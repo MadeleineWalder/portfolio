@@ -39,19 +39,16 @@ h1 {
 .div1 {
     background-color: #0d0d0d;
     min-height: 34vh;
-    max-width: 60%;
 }
 
 .div2 {
     background-color: #0d0d0d;
     min-height: 34vh;
-    max-width: 60%;
 }
 
 .div3 {
     background-color: #0d0d0d;
     min-height: 34vh;
-    max-width: 60%;
 }
 
 @media (max-width: 768px) {
