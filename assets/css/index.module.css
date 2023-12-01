@@ -1,11 +1,11 @@
 nav {
-    background-color: #0d0d0d;
+    background-color: #38494b;
     --bs-gutter-x: none !important;
     
 }
 
 body {
-    background-color: #0d0d0d;
+    background-color: #38494b;
     color: #f0f0f0;
     font-family: 'Raleway', sans-serif;
     letter-spacing: 2px;
@@ -36,25 +36,29 @@ h1 {
     padding-bottom: 3%;
 }
 
+ul {
+    list-style-type: none;
+}
+
 .div1 {
-    background-color: #0d0d0d;
-    min-height: 34vh;
+    background-color: #38494b;
+    min-height: 24vh;
     padding-top: 2%;
 }
 
 .div2 {
-    background-color: #0d0d0d;
-    min-height: 34vh;
+    background-color: #38494b;
+    min-height: 44vh;
     padding-top: 2%;
 }
 
 .div3 {
-    background-color: #0d0d0d;
-    min-height: 34vh;
+    background-color: #38494b;
+    min-height: 44vh;
     padding-top: 2%;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 1024px) {
     .masthead {
         min-height: 33vh;
     }
