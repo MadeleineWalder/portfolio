@@ -14,7 +14,7 @@ nav {
 
 body {
     background-color: #1c1c1c;
-    color: #f0f0f0;
+    color: #ededed;
     font-family: 'Raleway', sans-serif;
     letter-spacing: 2px;
 }
@@ -48,22 +48,40 @@ ul {
     list-style-type: none;
 }
 
+.top-padding {
+    padding-top: 5%;
+}
+
+.bottom-padding {
+    padding-bottom: 2%;
+}
+
 .div1 {
     background-color: #1c1c1c;
-    min-height: 24vh;
+    min-height: 44vh;
     padding-top: 2%;
+    font-size: 1.2rem;
+    color: #dedede;
 }
 
 .div2 {
     background-color: #1c1c1c;
     min-height: 44vh;
     padding-top: 2%;
+    font-size: 1.2rem;
+    color: #dedede;
 }
 
 .div3 {
     background-color: #1c1c1c;
     min-height: 44vh;
     padding-top: 2%;
+    font-size: 1.2rem;
+    color: #dedede;
+}
+
+.align {
+    text-align: left;
 }
 
 #projects a {
@@ -76,7 +94,7 @@ ul {
 
 footer {
     background-color: #1c1c1c;
-    font-size: 1.5em;
+    font-size: 1em;
 }
 
 #contact a {
