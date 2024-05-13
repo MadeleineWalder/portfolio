@@ -20,7 +20,7 @@ body {
 }
 
 .masthead {
-    background-image: url("/images/pier2.jpg");
+    background-image: url("pier2.jpg");
     background-size: cover;
     min-height: 100vh;
     position: relative;
@@ -94,11 +94,12 @@ ul {
 
 footer {
     background-color: #1c1c1c;
-    font-size: 1em;
+    font-size: 1.1em;
+    color: #9c9c9c;
 }
 
 #contact a {
-    color: #ffffff !important;
+    color: #dedede !important;
     padding: 5%;
 }
 
