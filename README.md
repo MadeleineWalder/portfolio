@@ -4,7 +4,7 @@
 
 ## Link to Live Site:
 
-### [https://madeleinewalder.github.io/madeleine-walder/](https://madeleinewalder.github.io/madeleine-walder/)
+### [https://madeleinewalder.github.io/portfolio/](https://madeleinewalder.github.io/portfolio/)
 
 ## Future Improvements:
 - Add image / profile picture
