@@ -20,7 +20,7 @@ body {
 }
 
 .masthead {
-    background-image: url("/images/pier2.jpg");
+    background-image: url("pier2.jpg");
     background-size: cover;
     min-height: 100vh;
     position: relative;
