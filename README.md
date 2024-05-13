@@ -7,12 +7,9 @@
 ### [https://madeleinewalder.github.io/madeleine-walder/](https://madeleinewalder.github.io/madeleine-walder/)
 
 ## Future Improvements:
-- Skills lists text alignment is off
 - Add image / profile picture
 - Change navbar font colours, should be whiter and go more gray when hovered, not the opposite
 - Make a card for each project, include a 'visit' button to go to the project and write more description about each
-- Add link to Arctic Sim Racing site?
-- Include links to 2Toucans?
 
 ## Local Hosting
 
