@@ -64,32 +64,16 @@ ul {
     color: #dedede;
 }
 
-.div2 {
-    background-color: #1c1c1c;
-    min-height: 44vh;
-    padding-top: 2%;
-    font-size: 1.2rem;
-    color: #dedede;
+.div1 a {
+    color: #ffffff !important;
 }
 
-.div3 {
-    background-color: #1c1c1c;
-    min-height: 44vh;
-    padding-top: 2%;
-    font-size: 1.2rem;
-    color: #dedede;
+.div1 a:hover {
+    color: #707070 !important;
 }
 
 .align {
     text-align: left;
-}
-
-#projects a {
-    color: #ffffff !important;
-}
-
-#projects a:hover {
-    color: #707070!important;
 }
 
 footer {
