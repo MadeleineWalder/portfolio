@@ -6,10 +6,14 @@
 
 ### [https://madeleinewalder.github.io/portfolio/](https://madeleinewalder.github.io/portfolio/)
 
+![Finished website on different devices](portfolio.png)
+
 ## Future Improvements:
 - Add image / profile picture
 - Change navbar font colours, should be whiter and go more gray when hovered, not the opposite
+- Make nav bar transparent?
 - Make a card for each project, include a 'visit' button to go to the project and write more description about each
+- Add a 'back to top' button
 
 ## Local Hosting
 
