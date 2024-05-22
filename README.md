@@ -14,6 +14,7 @@
 
 
 ## Future Improvements
+- Make all text smaller on mobile
 - Add image / profile picture
 - Change navbar font colours, should be whiter and go more gray when hovered, not the opposite
 - Make nav bar transparent?
