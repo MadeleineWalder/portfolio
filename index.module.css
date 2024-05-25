@@ -1,6 +1,10 @@
-nav {
-    background-color: #1c1c1c;
-    --bs-gutter-x: none !important;
+/* Style for the navbar */
+.navbar {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background: rgba(0, 0, 0, 0.5) !important; /* Semi-transparent background */
+    z-index: 1000; /* Make sure it's on top of other elements */
 }
 
 .navbar-brand {
@@ -17,6 +21,9 @@ body {
     color: #ededed;
     font-family: 'Raleway', sans-serif;
     letter-spacing: 2px;
+    margin: 0;
+    padding: 0;
+    height: 100%;
 }
 
 .masthead {

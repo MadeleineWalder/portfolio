@@ -15,10 +15,12 @@
 
 ## Future Improvements
 - Make all text smaller on mobile
-- Add image / profile picture
+- Add more images & profile picture
 - Change navbar font colours, should be whiter and go more gray when hovered, not the opposite
 - Make nav bar transparent?
 - Make a card for each project, include a 'visit' button to go to the project and write more description about each
+- Change id of back to top button href to 'home' for example instead of page top
+- Add a contact form or remove contact from navbar in the mean time, OR make it more clear that the contact section is the details in the footer
 
 
 ## Local Hosting
