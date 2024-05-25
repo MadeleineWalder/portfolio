@@ -8,10 +8,14 @@
 
 ## Update Log
 
+### 25/05/24
+- Made navbar transparent and permanently fixed to top of page
+- Fixed bug where site had a horizontal scroll bar
+- Fixed bug where 'Back to Top' button stopped functioning because of navbar position changes
+
 ### 22/05/24
 - Fixed problem where Contributions section is too close to the section above it on certain desktop screen sizes.
 - Added 'Back to Top' button which will be especially helpful for mobile users as they have to scroll further.
-
 
 ## Future Improvements
 - Make all text smaller on mobile
