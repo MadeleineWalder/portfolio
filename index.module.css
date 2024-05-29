@@ -89,12 +89,12 @@ footer {
     color: #9c9c9c;
 }
 
-#contact a {
+footer a {
     color: #dedede !important;
     padding: 5%;
 }
 
-#contact a:hover {
+footer a:hover {
     color: #707070 !important;
 }
 
