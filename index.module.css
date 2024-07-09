@@ -19,7 +19,8 @@
 body {
     background-color: #1c1c1c;
     color: #ededed;
-    font-family: 'Raleway', sans-serif;
+    font-family: 'Lexend', sans-serif;
+    font-weight: 300;
     letter-spacing: 2px;
     margin: 0;
     padding: 0;
@@ -63,7 +64,7 @@ ul {
     padding-bottom: 2%;
 }
 
-.div1 {
+.story {
     background-color: #1c1c1c;
     min-height: 44vh;
     padding-top: 2%;
@@ -71,12 +72,44 @@ ul {
     color: #dedede;
 }
 
-.div1 a {
+.contribs {
+    background-color: #1c1c1c;
+    min-height: 25vh;
+    padding-top: 2%;
+    font-size: 1.2rem;
+    color: #dedede;
+}
+
+.contribs a {
     color: #ffffff !important;
 }
 
-.div1 a:hover {
+.contribs a:hover {
     color: #707070 !important;
+}
+
+.projects {
+    background-color: #1c1c1c;
+    min-height: 33vh;
+    padding-top: 2%;
+    font-size: 1.2rem;
+    color: #dedede;
+}
+
+.projects a {
+    color: #ffffff !important;
+}
+
+.projects a:hover {
+    color: #707070 !important;
+}
+
+.skills {
+    background-color: #1c1c1c;
+    min-height: 33vh;
+    padding-top: 2%;
+    font-size: 1.2rem;
+    color: #dedede;
 }
 
 .align {
