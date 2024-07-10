@@ -4,7 +4,7 @@
 
 ### Link to Live Site: [https://madeleinewalder.github.io/portfolio/](https://madeleinewalder.github.io/portfolio/)
 
-![Finished website on different devices](portfolio.png)
+![Finished website on different devices](images/portfolio.png)
 
 ## Update Log
 
