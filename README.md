@@ -8,6 +8,12 @@
 
 ## Update Log
 
+### 10/07/24
+- New and improved font for better readability
+- Better file structure for images
+- Visual improvement: Adjusted each content section to be a size that looks proportional to the amount of content within, rather than all the same size.
+- Added the new SummerHomes project to the projects list
+
 ### 25/05/24
 - Made navbar transparent and permanently fixed to top of page
 - Fixed bug where site had a horizontal scroll bar
@@ -19,10 +25,9 @@
 
 ## Future Improvements
 - Make all text smaller on mobile devices
-- Add more images & profile picture
+- Add more images & a profile picture
 - Change navbar font colours, should be white and go gray when hovered, not the opposite
-- Make a card for each project, include a 'visit' button to go to the project and write more description about each
-- Change id of back to top button href to 'home' for example instead of page top
+- Make a card for each project, include a short description and two buttons, one to go to the live site and one to go to the Github repo
 - Add a contact form or remove contact from navbar in the mean time, OR make it more clear that the contact section is the details in the footer
 
 
