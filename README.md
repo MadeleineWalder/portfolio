@@ -8,6 +8,11 @@
 
 ## Update Log
 
+### 12/08/24
+- Major layout change! Rearranged and edited all text content for better readability
+- Images of contributions and projects added
+- Clickable cards and hover effects
+
 ### 10/07/24
 - New and improved font for better readability
 - Better file structure for images
