@@ -1,4 +1,4 @@
-/* Style for the navbar */
+/* Navbar */
 .navbar {
     position: fixed;
     top: 0;
@@ -16,6 +16,7 @@
     margin-left: 3em;
 }
 
+/* Body */
 body {
     background-color: #1c1c1c;
     color: #ededed;
@@ -27,6 +28,7 @@ body {
     height: 100%;
 }
 
+/* Hero image section */
 .masthead {
     background-image: url(images/pier2.jpg);
     background-size: cover;
@@ -43,6 +45,7 @@ body {
     background-color: rgba(0, 0, 0, .1);
 }
 
+/* Fancy text */
 h1 {
     font-size: 5rem;
 }
@@ -52,74 +55,118 @@ h1 {
     padding-bottom: 10%;
 }
 
-ul {
-    list-style-type: none;
+/* Subtitles */
+h2 {
+    font-size: 2.5rem;
+    color: #f0f0f0;
+    font-weight: 300;
 }
 
-.top-padding {
-    padding-top: 5%;
+/* Padding between sections so navbar isn't over Subtitles */
+.sub-title-padding {
+    padding-top: 10rem;
+    padding-bottom: 3rem;
 }
 
-.bottom-padding {
-    padding-bottom: 2%;
-}
-
+/* Story section */
 .story {
-    background-color: #1c1c1c;
-    min-height: 44vh;
-    padding-top: 2%;
+    min-height: 100vh;
     font-size: 1.2rem;
     color: #dedede;
 }
 
+.story-card {
+    color: inherit;
+    background-color: inherit;
+    border: none;
+    margin-bottom: 12rem;
+}
+
+/* Global card styles */
+.card-text {
+    font-size: 1.1rem;
+}
+
+.card-img-top {
+    height: 28rem;
+    object-fit: cover;
+    width: 100%;
+}
+
+/* Contrib section */
 .contribs {
-    background-color: #1c1c1c;
-    min-height: 25vh;
-    padding-top: 2%;
+    min-height: 100vh;
     font-size: 1.2rem;
     color: #dedede;
 }
 
 .contribs a {
-    color: #ffffff !important;
+    color: rgb(25, 25, 25) !important;
 }
 
 .contribs a:hover {
-    color: #707070 !important;
+    color: #868686 !important;
 }
 
+.contrib-card {
+    color: rgb(25, 25, 25);
+    background-color: #e3e3e3;
+    border-color: #e3e3e3;
+    margin-bottom: 12rem;
+    transition: all 0.3s ease;
+}
+
+.contrib-card:hover {
+    transform: scale(1.1);
+    box-shadow: 0px 0px 9px 4px rgba(205, 205, 205, 0.7);
+}
+
+/* Projects section */
 .projects {
-    background-color: #1c1c1c;
-    min-height: 33vh;
-    padding-top: 2%;
+    min-height: 100vh;
     font-size: 1.2rem;
     color: #dedede;
 }
 
-.projects a {
-    color: #ffffff !important;
+.proj-card {
+    color: rgb(25, 25, 25);
+    background-color: #e3e3e3;
+    border-color: #e3e3e3;
+    margin-bottom: 12rem;
+    transition: all 0.3s ease;
 }
 
-.projects a:hover {
-    color: #707070 !important;
+.proj-card:hover {
+    transform: scale(1.05);
+    box-shadow: 0px 0px 9px 4px rgba(205, 205, 205, 0.7);
 }
 
+
+/* Skills section */
 .skills {
-    background-color: #1c1c1c;
-    min-height: 33vh;
-    padding-top: 2%;
+    min-height: 100vh;
     font-size: 1.2rem;
     color: #dedede;
 }
 
-.align {
-    text-align: left;
+.skills-card {
+    color: inherit;
+    background-color: inherit;
+    border: none;
+    margin-bottom: 12rem;
+    text-align: center;
 }
 
+/* Removes bullet points from lists */
+ul {
+    list-style-type: none;
+}
+
+/* Footer */
 footer {
     background-color: #1c1c1c;
     font-size: 1.1em;
-    color: #9c9c9c;
+    color: #dedede;
 }
 
 footer a {
@@ -131,7 +178,7 @@ footer a:hover {
     color: #707070 !important;
 }
 
-
+/* Media queries */
 @media (max-width: 1024px) {
     .masthead {
         min-height: 33vh;
