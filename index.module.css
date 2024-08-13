@@ -187,3 +187,12 @@ footer a:hover {
         font-size: 2rem;
     }
 }
+
+@media (max-width: 500px) {
+    .masthead {
+        min-height: 33vh;
+    }
+    h1 {
+        font-size: 2rem;
+    }
+}
