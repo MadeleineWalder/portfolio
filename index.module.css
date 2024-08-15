@@ -84,7 +84,7 @@ h2 {
 
 /* Global card styles */
 .card-text {
-    font-size: 1.1rem;
+    font-size: 1rem;
 }
 
 .card-img-top {
@@ -102,10 +102,6 @@ h2 {
 
 .contribs a {
     color: rgb(25, 25, 25) !important;
-}
-
-.contribs a:hover {
-    color: #868686 !important;
 }
 
 .contrib-card {
@@ -165,7 +161,7 @@ ul {
 /* Footer */
 footer {
     background-color: #1c1c1c;
-    font-size: 1.1em;
+    font-size: 1.rem;
     color: #dedede;
 }
 
