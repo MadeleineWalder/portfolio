@@ -1,6 +1,6 @@
 # Madeleine Walder
 
-### This is my person portfolio website, built by me for me! Click the link below to view. Thanks for visiting!
+### This is my personal portfolio website, built by me for me! Click the link below to view. Thanks for visiting!
 
 ### Link to Live Site: [https://madeleinewalder.github.io/portfolio/](https://madeleinewalder.github.io/portfolio/)
 
